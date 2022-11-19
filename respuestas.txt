@@ -1,0 +1,30 @@
+1.) ¿En qué unidad están medidas estas unidades?
+- Píxeles
+
+1b. ¿Hay algún comportamiento?
+- No. No hay respuesta por la ventana al intentar modificar su tamaño 
+con el mouse.
+
+3.) ¿Qué es askopenfilename?
+- Es un metódo el cúal es almacenado en la variable "filepath" y permite 
+mostrar el cuadro de diálogo para hallar el archivo deseado.
+
+3b. ¿Cúales son sus posibles parámetros?
+- Tiene como parámetros 'title', encargado de mostrar el título de la ventana;
+'filetypes', que almacena los parámetros para buscar archivos en la ventana de
+'open_file'. Por ejemplo, este almacena el parámetro de busqueda para todo 
+archivo 'Text File' con la extensión '.txt'.
+
+7.) ¿Qué son los archivos con extensión .ico?
+- Es la extensión para archivos que contienen una o más imágenes a diferentes 
+escalas, y permite que estas sean modificadas en su tamaño dependiendo su 
+uso final.
+ 
+
+
+
+
+
+
+
+
